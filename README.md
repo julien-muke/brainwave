@@ -816,7 +816,7 @@ export default Roadmap;
 
 </details>
 
-## <a name="links">🔗 Links</a>
+## <a name="links">🔗 Link</a>
 
 - [Live Website](https://jsm-brainwave.com/)
 
