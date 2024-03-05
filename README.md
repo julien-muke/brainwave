@@ -1,10 +1,5 @@
+![brainwave](https://github.com/julien-muke/brainwave/assets/110755734/8ca3981e-e0a0-4969-8d13-673f16f51aaa)
 <div align="center">
- <br />
-    <a href="#">
-      ![brainwave](https://github.com/julien-muke/brainwave/assets/110755734/8ca3981e-e0a0-4969-8d13-673f16f51aaa)
-    </a>
-  <br />
-
   <div>
     <img src="https://img.shields.io/badge/-Vite-black?style=for-the-badge&logoColor=white&logo=vite&color=646CFF" alt="vite" />
     <img src="https://img.shields.io/badge/-React_JS-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="react.js" />
