@@ -1,6 +1,8 @@
 <div align="center">
-  <br />
-   ![brainwave](https://github.com/julien-muke/brainwave/assets/110755734/8ca3981e-e0a0-4969-8d13-673f16f51aaa)
+ <br />
+    <a href="#">
+      ![brainwave](https://github.com/julien-muke/brainwave/assets/110755734/8ca3981e-e0a0-4969-8d13-673f16f51aaa)
+    </a>
   <br />
 
   <div>
