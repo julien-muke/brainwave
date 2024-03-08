@@ -818,6 +818,6 @@ export default Roadmap;
 
 ## <a name="links">🔗 Link</a>
 
-- [Live Website](https://jsm-brainwave.com/)
+- [Live Website](https://brainwave-coral.vercel.app/)
 
 #
