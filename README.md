@@ -816,7 +816,7 @@ export default Roadmap;
 
 </details>
 
-## <a name="links" target="_blank" rel="noopener noreferrer">🔗 Link</a>
+## <a name="links">🔗 Link</a>
 
 - [Live Website](https://brainwave-coral.vercel.app)
 
