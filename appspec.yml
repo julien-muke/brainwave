@@ -1,8 +1,8 @@
 version: 0.0
 os: linux
 files:
-  - source: /
-    destination: /home/ec2-user/express-app
+  - source: /dist/index.html
+    destination: /home/ec2-user/react-app
 hooks:
   ApplicationStop:
     - location: scripts/application_stop.sh
